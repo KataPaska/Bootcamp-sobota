@@ -1,9 +1,10 @@
-body {background-color: #fff1e6;
-    font-family: 'Raleway', sans-serif;
-    font-size: 20px;
-    line-height: 1.5;
-    color: #282425;
-    margin: 0px;
+body {
+   background-color: #fff1e6;
+   font-family: 'Raleway', sans-serif;
+   font-size: 20px;
+   line-height: 1.5;
+   color: #282425;
+   margin: 0px;
 }
 
 .header {
@@ -15,12 +16,77 @@ body {background-color: #fff1e6;
     color: white;
 }
 
-.paticka{padding: 20px 0%;
+.paticka {
+   padding: 20px 0%;
 }
 
-.fotogalerie,.kontakty{background-color: #f9e3d0;
+.fotogalerie,
+.kontakty {
+   background-color: #f9e3d0;
 }
 
+h1 {
+   font-family: 'Playfair Display', serif;
+   font-style: italic;
+   color: white;
+   font-size: 80px;
+   text-align: center;
+   margin: 0px;
+}
+
+h2 {
+   font-family: 'Playfair Display', serif;
+   font-style: italic;
+   color: #756158;
+   font-size: 48px;
+   text-align: center;
+   margin-top: 0px;
+}
+
+h3 {
+   font-family: 'Playfair Display', serif;
+   font-style: italic;
+   color: #756158;
+   font-size: 24px;
+   margin-top: 36px;
+}
+
+a {
+   font-style: italic;
+   color: #756158;
+}
+
+section {
+   padding: 50px 15%;
+}
+.fiveinIT {
+      color: turquoise;
+}
+
+
+#tym {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   border-radius: 9%;
+   padding: 10px;
+   width: 100%;
+
+}
+
+.cartoon {
+   float: right;
+   margin: 0 0 30px 30px;
+   border-radius: 9%;
+   width: 300px;
+   height: 400px;
+
+}
+
+.menu {
+   padding: 0;
+   margin: 0;
+}
 .fotogalerie{text-align: center;
 }
 
@@ -78,11 +144,11 @@ font-family: 'Playfair Display', serif;
 */
 
 .foto-kontakt {
-    border-radius: 50px 0 50px 50px;
-    float: left;
-    margin: 0 30px 30px 0;
-    width: 350px;
-    border-radius: 50%;
+   border-radius: 50px 0 50px 50px;
+   float: left;
+   margin: 0 30px 30px 0;
+   width: 350px;
+   border-radius: 50%;
 }
 
 .logo {
