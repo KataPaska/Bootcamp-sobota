@@ -17,6 +17,16 @@ body {background-color: #fff1e6;
 .fotogalerie,.kontakty{background-color: #f9e3d0;
 }
 
+.fotogalerie{text-align: center;
+}
+
+.fotka{
+width: 250px;
+  height: auto;  
+  margin: 5px; 
+  border-radius: 10px;
+  }
+
 h1{font-family: 'Playfair Display', serif;
     font-style: italic;
     color: white;
