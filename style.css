@@ -9,6 +9,8 @@ body {
 
 .header {
    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+background-color: #ff8fa3;
+color: #ff4d6d;
 }
 
 .menu,.paticka{background-color: #282425;
