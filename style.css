@@ -7,7 +7,7 @@ body {
    margin: 0px;
 }
 
-.hlavicka {
+header {
    font-family: 'Raleway', sans-serif;
 background-color: #ff8fa3;
 color: #ff4d6d;
@@ -35,16 +35,13 @@ color: #ff4d6d;
 
 h1 {
    font-family: 'Raleway', sans-serif;
-   font-style: italic;
-   color: white;
    font-size: 80px;
    text-align: center;
    margin: 0px;
 }
 
 h2 {
-   font-family: 'Playfair Display', serif;
-   font-style: italic;
+   font-family: 'Raleway', sans-serif;
    color: #756158;
    font-size: 48px;
    text-align: center;
@@ -52,7 +49,7 @@ h2 {
 }
 
 h3 {
-   font-family: 'Playfair Display', serif;
+   font-family: 'Raleway', sans-serif;
    font-style: italic;
    color: #756158;
    font-size: 24px;
@@ -196,4 +193,27 @@ font-family: 'Playfair Display', serif;
   width: 20px; 
   height: 20px;
   vertical-align: middle;   
+}
+
+nav {
+    background-color: #183912;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    margin: 0;
+}
+
+nav ul li a {
+    display: block;
+    padding: 14px 20px;
+    text-decoration: none;
+    font-weight: bold;
 }
