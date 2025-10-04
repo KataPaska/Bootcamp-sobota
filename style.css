@@ -92,11 +92,11 @@ font-family: 'Playfair Display', serif;
    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
    font-style: oblique;
    color: #1d3557;
-   background-color: #ffc8dd;
+   background-color: #ff8fa3;
 }
 
 .kontakty   {
-   background-color: #ffc8dd;
+   background-color: #ff8fa3;
 }
 
 .kontakty a {
@@ -106,4 +106,16 @@ font-family: 'Playfair Display', serif;
 .kontakty h3 {
    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
    color: #003566;
+}
+
+.ikona_mail
+{
+    width: 20px; 
+  height: 20px;
+  vertical-align: middle; 
+}
+.ikona_fb {
+  width: 20px; 
+  height: 20px;
+  vertical-align: middle;   
 }
