@@ -7,10 +7,16 @@ body {
    margin: 0px;
 }
 
-.header {
-   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+.hlavicka {
+   font-family: 'Raleway', sans-serif;
 background-color: #ff8fa3;
 color: #ff4d6d;
+}
+
+ul, li {
+  font-family: 'Raleway', sans-serif;
+background-color: #ff8fa3;
+color: #ff4d6d; 
 }
 
 .menu,.paticka{background-color: #282425;
@@ -28,7 +34,7 @@ color: #ff4d6d;
 }
 
 h1 {
-   font-family: 'Playfair Display', serif;
+   font-family: 'Raleway', sans-serif;
    font-style: italic;
    color: white;
    font-size: 80px;
