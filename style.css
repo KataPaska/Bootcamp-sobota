@@ -6,6 +6,10 @@ body {background-color: #fff1e6;
     margin: 0px;
 }
 
+.header {
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
 .menu,.paticka{background-color: #282425;
     text-align: center;
     color: white;
